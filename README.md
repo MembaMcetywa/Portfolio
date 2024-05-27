@@ -3,7 +3,7 @@
   <a href="https://memba.vercel.app/" target="_blank">membaa!</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="https://unsplash.com/photos/yellow-painted-wall-ZK1WQDMQvik" />
 </div>
 <br/>
 
